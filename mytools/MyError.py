@@ -9,3 +9,6 @@ class ProxyIsNotCorrectError(Exception):
 
 class TextNotCorrectError(Exception):
     pass
+
+class LimitBreakError(Exception):
+    pass

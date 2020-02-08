@@ -20,7 +20,7 @@ bilibili = {
 redis = {
     'host': "localhost",
     'port': 6379,
-    'password': "kainredis"
+    'password': "******"
 }
 
 # mysql登录信息
@@ -28,6 +28,6 @@ mysql = {
     'host': "127.0.0.1",
     'port': 3306,
     'user': "root",
-    'passwd': "kaindb",
-    'database': "folk_song"
+    'password': "12345678",
+    'database': "img"
 }
